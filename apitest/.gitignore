@@ -1,5 +1,18 @@
+# Created by https://www.gitignore.io/api/node,data,grunt,sublimetext
 
-# Created by https://www.gitignore.io/api/node,grunt,sublimetext
+### Data ###
+*.csv
+*.dat
+*.efx
+*.gbr
+*.key
+*.pps
+*.ppt
+*.pptx
+*.sdf
+*.tax2010
+*.vcf
+*.xml
 
 ### grunt ###
 # Grunt usually compiles files inside this directory
@@ -101,4 +114,4 @@ bh_unicode_properties.cache
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
 
-# End of https://www.gitignore.io/api/node,grunt,sublimetext
+# End of https://www.gitignore.io/api/node,data,grunt,sublimetext
